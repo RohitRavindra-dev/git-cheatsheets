@@ -24,7 +24,7 @@ This index tracks cheatsheets in the repo. Checkboxes indicate completion; click
  - [x] [`specialized_topics/git-aliases.md`](specialized_topics/git-aliases.md) — Handy aliases and productivity tricks
  - [x] [`specialized_topics/git-config.md`](specialized_topics/git-config.md) — Config settings and best defaults
  - [x] [`specialized_topics/git-performance.md`](specialized_topics/git-performance.md) — Large repo strategies and tuning
-- [ ] [`specialized_topics/git-security.md`](specialized_topics/git-security.md) — Signing, secrets, and safe workflows
+- [x] [`specialized_topics/git-security.md`](specialized_topics/git-security.md) — Signing, secrets, and safe workflows
 - [x] [`specialized_topics/git-stash.md`](specialized_topics/git-stash.md) — Stashing work-in-progress (done)
 
 ## Notes & Next Batches
