@@ -1,43 +1,37 @@
-# Git Cheatsheets Roadmap
+# Git Cheatsheets Index
 
-This roadmap outlines potential git cheatsheet files to create in this project, similar to `git-stash.md`. Each cheatsheet should follow a similar structure: lookup tables at the top, followed by examples, outliers, and how-tos.
+This index tracks cheatsheets in the repo. Checkboxes indicate completion; click a path to open the file.
 
-## Core Git Commands
-- `git-basics.md` - Essential commands: init, add, commit, status, log, diff
-- `git-branching.md` - Branch management: branch, checkout, switch, merge
-- `git-remotes.md` - Working with remotes: remote, push, pull, fetch, clone
-- `git-history.md` - Exploring history: log, reflog, blame, bisect
+- [x] [`core_git_commands/git-basics.md`](core_git_commands/git-basics.md) — Essential commands: init, add, commit, status, log, diff
+- [x] [`core_git_commands/git-branching.md`](core_git_commands/git-branching.md) — Branch management and workflows
+- [x] [`core_git_commands/git-remotes.md`](core_git_commands/git-remotes.md) — Remotes: fetch, pull, push, upstreams
+- [ ] [`core_git_commands/git-history.md`](core_git_commands/git-history.md) — Exploring history: log, reflog, blame, bisect
 
-## Advanced Operations
-- `git-rebase.md` - Rebasing workflows and commands
-- `git-merge.md` - Merging strategies and conflict resolution
-- `git-reset-revert.md` - Undoing changes: reset, revert, checkout
-- `git-tags.md` - Tagging releases and versions
+- [x] [`advanced_operations/git-rebase.md`](advanced_operations/git-rebase.md) — Rebasing workflows and commands
+- [x] [`advanced_operations/git-merge.md`](advanced_operations/git-merge.md) — Merging strategies and conflict resolution
+- [x] [`advanced_operations/git-reset-revert.md`](advanced_operations/git-reset-revert.md) — Undoing changes safely
+- [ ] [`advanced_operations/git-tags.md`](advanced_operations/git-tags.md) — Tagging releases and versions
 
-## Collaboration & Workflow
-- `git-collaboration.md` - Pull requests, forks, and team workflows
-- `git-hooks.md` - Pre-commit, post-commit, and other hooks
-- `git-submodules.md` - Managing submodules
-- `git-worktrees.md` - Working with multiple worktrees
+- [ ] [`collaboration_and_workflow/git-collaboration.md`](collaboration_and_workflow/git-collaboration.md) — PRs, forks, and team workflows
+- [ ] [`collaboration_and_workflow/git-hooks.md`](collaboration_and_workflow/git-hooks.md) — Client and server hooks
+- [ ] [`collaboration_and_workflow/git-submodules.md`](collaboration_and_workflow/git-submodules.md) — Managing submodules
+- [ ] [`collaboration_and_workflow/git-worktrees.md`](collaboration_and_workflow/git-worktrees.md) — Multiple worktrees and split workflows
 
-## Troubleshooting & Recovery
-- `git-conflicts.md` - Resolving merge and rebase conflicts
-- `git-recovery.md` - Recovering lost commits, stashes, or branches
-- `git-cleanup.md` - Cleaning up: gc, prune, fsck
+- [ ] [`troubleshooting_and_recovery/git-conflicts.md`](troubleshooting_and_recovery/git-conflicts.md) — Resolving merge/rebase conflicts
+- [ ] [`troubleshooting_and_recovery/git-recovery.md`](troubleshooting_and_recovery/git-recovery.md) — Recovering lost commits, branches, stashes
+- [ ] [`troubleshooting_and_recovery/git-cleanup.md`](troubleshooting_and_recovery/git-cleanup.md) — gc, prune, fsck and repo hygiene
 
-## Specialized Topics
-- `git-aliases.md` - Creating and using git aliases
-- `git-config.md` - Configuration settings and options
-- `git-performance.md` - Optimizing git performance and large repos
-- `git-security.md` - Best practices for secure git usage
- - `git-stash.md` - Stashing work-in-progress (done)
+- [ ] [`specialized_topics/git-aliases.md`](specialized_topics/git-aliases.md) — Handy aliases and productivity tricks
+- [ ] [`specialized_topics/git-config.md`](specialized_topics/git-config.md) — Config settings and best defaults
+- [ ] [`specialized_topics/git-performance.md`](specialized_topics/git-performance.md) — Large repo strategies and tuning
+- [ ] [`specialized_topics/git-security.md`](specialized_topics/git-security.md) — Signing, secrets, and safe workflows
+- [x] [`specialized_topics/git-stash.md`](specialized_topics/git-stash.md) — Stashing work-in-progress (done)
 
-## Priority Suggestions
-1. `git-basics.md` - Foundation for all users
-2. `git-branching.md` - Essential for any project
-3. `git-remotes.md` - Crucial for collaboration
-4. `git-merge.md` - Common workflow operations
-5. `git-reset-revert.md` - Important for mistake recovery
+## Notes & Next Batches
+- Use this file to track what's done and what's next. After each batch I will update these checkboxes.
+- Next batch (planned): create `git-tags.md`, `git-submodules.md`, `git-worktrees.md` (I'll start these now).
+
+Start with the priority list and expand as needed. Each cheatsheet uses a short lookup table at top, followed by examples, edge cases, and practical how-tos.
 
 Start with the priority list and expand as needed. Each cheatsheet should be concise yet comprehensive, focusing on practical usage.</content>
 <parameter name="filePath">c:\Users\rohit\Desktop\projects\systems\git-cheatsheets\roadmap.md
