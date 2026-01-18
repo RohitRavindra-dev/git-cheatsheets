@@ -12,10 +12,10 @@ This index tracks cheatsheets in the repo. Checkboxes indicate completion; click
 - [x] [`advanced_operations/git-reset-revert.md`](advanced_operations/git-reset-revert.md) — Undoing changes safely
 - [ ] [`advanced_operations/git-tags.md`](advanced_operations/git-tags.md) — Tagging releases and versions
 
-- [ ] [`collaboration_and_workflow/git-collaboration.md`](collaboration_and_workflow/git-collaboration.md) — PRs, forks, and team workflows
-- [ ] [`collaboration_and_workflow/git-hooks.md`](collaboration_and_workflow/git-hooks.md) — Client and server hooks
+- [x] [`collaboration_and_workflow/git-collaboration.md`](collaboration_and_workflow/git-collaboration.md) — PRs, forks, and team workflows
+- [x] [`collaboration_and_workflow/git-hooks.md`](collaboration_and_workflow/git-hooks.md) — Client and server hooks
 - [ ] [`collaboration_and_workflow/git-submodules.md`](collaboration_and_workflow/git-submodules.md) — Managing submodules
-- [ ] [`collaboration_and_workflow/git-worktrees.md`](collaboration_and_workflow/git-worktrees.md) — Multiple worktrees and split workflows
+- [x] [`collaboration_and_workflow/git-worktrees.md`](collaboration_and_workflow/git-worktrees.md) — Multiple worktrees and split workflows
 
 - [ ] [`troubleshooting_and_recovery/git-conflicts.md`](troubleshooting_and_recovery/git-conflicts.md) — Resolving merge/rebase conflicts
 - [ ] [`troubleshooting_and_recovery/git-recovery.md`](troubleshooting_and_recovery/git-recovery.md) — Recovering lost commits, branches, stashes
