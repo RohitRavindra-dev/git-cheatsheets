@@ -30,6 +30,7 @@ This roadmap outlines potential git cheatsheet files to create in this project, 
 - `git-config.md` - Configuration settings and options
 - `git-performance.md` - Optimizing git performance and large repos
 - `git-security.md` - Best practices for secure git usage
+ - `git-stash.md` - Stashing work-in-progress (done)
 
 ## Priority Suggestions
 1. `git-basics.md` - Foundation for all users
