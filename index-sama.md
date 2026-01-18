@@ -17,9 +17,9 @@ This index tracks cheatsheets in the repo. Checkboxes indicate completion; click
 - [ ] [`collaboration_and_workflow/git-submodules.md`](collaboration_and_workflow/git-submodules.md) — Managing submodules
 - [x] [`collaboration_and_workflow/git-worktrees.md`](collaboration_and_workflow/git-worktrees.md) — Multiple worktrees and split workflows
 
-- [ ] [`troubleshooting_and_recovery/git-conflicts.md`](troubleshooting_and_recovery/git-conflicts.md) — Resolving merge/rebase conflicts
-- [ ] [`troubleshooting_and_recovery/git-recovery.md`](troubleshooting_and_recovery/git-recovery.md) — Recovering lost commits, branches, stashes
-- [ ] [`troubleshooting_and_recovery/git-cleanup.md`](troubleshooting_and_recovery/git-cleanup.md) — gc, prune, fsck and repo hygiene
++- [x] [`troubleshooting_and_recovery/git-conflicts.md`](troubleshooting_and_recovery/git-conflicts.md) — Resolving merge/rebase conflicts
++- [x] [`troubleshooting_and_recovery/git-recovery.md`](troubleshooting_and_recovery/git-recovery.md) — Recovering lost commits, branches, stashes
++- [x] [`troubleshooting_and_recovery/git-cleanup.md`](troubleshooting_and_recovery/git-cleanup.md) — gc, prune, fsck and repo hygiene
 
 - [ ] [`specialized_topics/git-aliases.md`](specialized_topics/git-aliases.md) — Handy aliases and productivity tricks
 - [ ] [`specialized_topics/git-config.md`](specialized_topics/git-config.md) — Config settings and best defaults
